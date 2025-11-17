@@ -1,0 +1,11 @@
+{
+  "name": "ระบบบันทึกการเรียนการสอน - โรงเรียนสกลราชวิทยานุกูล",
+  "short_name": "บันทึกการสอน",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C00000",
+  "icons": [
+    { "src": "assets/logo.svg", "sizes": "120x120", "type": "image/svg+xml" }
+  ]
+}
